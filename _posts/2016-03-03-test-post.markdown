@@ -6,5 +6,5 @@ published: true
 
 
 ![Camps Bay sunset]({{site.baseurl}}/assets/img/CNV00005.JPG)
-#### this is a new post
+> This is a new post
 Test post
