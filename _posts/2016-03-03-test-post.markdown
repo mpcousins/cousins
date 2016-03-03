@@ -3,9 +3,11 @@ published: true
 ---
 
 
-
-
-
+---
+layout: post
+title:  "Test Post"
+date:   2016-03-03
+---
 
 ![Camps Bay sunset]({{site.baseurl}}/assets/img/CNV00005.JPG)
 <span class="dropcap">T</span>his is a test
