@@ -4,7 +4,7 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 url: http://cousins.cc
 baseurl: "http://mpcousins.github.io/cousins"
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: blog/page:date/:title/
 
 markdown: kramdown
 highlighter: rouge
