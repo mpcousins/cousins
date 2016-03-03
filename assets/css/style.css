@@ -621,7 +621,8 @@ ul
 		font-family:"Karla",Helvetica,Arial,sans-serif;
 		font-weight:300;
 		font-size:.8em;
-		text-align:center;}
+		text-align:center;
+		padding-bottom: 0.5em}
 .posts li h3
 		{margin:0 0 0;
 		text-align:center;
