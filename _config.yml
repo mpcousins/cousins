@@ -2,7 +2,7 @@ title: Cousins
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://mpcousins.github.io/cousins
-baseurl: "/"
+baseurl: "/cousins"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
