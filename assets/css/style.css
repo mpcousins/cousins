@@ -449,7 +449,8 @@ ul
 		margin:2.5em 0;
 		padding:0;
 		line-height:1.8;
-		position:relative;}
+		position:relative;
+		text-align: center}
 .posts blockquote:before
 		{content:"";
 		position:absolute;
@@ -490,8 +491,7 @@ ul
 		margin-bottom:2rem}
 .posts .dropcap
 		{color:#083343;
-		margin-right:.45rem;
-		text-align: center;}
+		margin-right:.45rem}
 .posts .featuredImage
 		{position:relative;
 		margin-top:2rem}
