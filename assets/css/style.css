@@ -450,7 +450,8 @@ ul
 		padding:0;
 		line-height:1.8;
 		position:relative;
-		text-align: center}
+		text-align: center;
+		text-transform: italic}
 .posts blockquote:before
 		{content:"";
 		position:absolute;
