@@ -490,7 +490,8 @@ ul
 		margin-bottom:2rem}
 .posts .dropcap
 		{color:#083343;
-		margin-right:.45rem}
+		margin-right:.45rem;
+		text-align: center;}
 .posts .featuredImage
 		{position:relative;
 		margin-top:2rem}
