@@ -1,0 +1,30 @@
+---
+layout: default
+title: Cousins
+---
+
+<div class="home" id="home">
+
+  <h1 class="pageTitle"></h1>
+  <ul class="posts noList">
+    {% for post in paginator.posts %}
+      <li>
+        <p class="date">{{ post.date | date: '%B %d, %Y' }}</p>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="date"><span class="time">{{ post.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+         {{ post.content }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
+    {% endif %}
+</div>
+  </div>
+</div>
