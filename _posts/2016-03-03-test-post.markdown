@@ -5,6 +5,6 @@ published: true
 
 
 
+
 ![Camps Bay sunset]({{site.baseurl}}/assets/img/CNV00005.JPG)
-> This is a new post
-Test post
+<p class="intro"><span class="dropcap">T</span>>his is a test
