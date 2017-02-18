@@ -1,9 +1,18 @@
 ---
+published: true
 layout: post
 title:  "Test Post"
+<<<<<<< HEAD
 date:   2014-03-03
 ---
 
+=======
+date: 2016-03-03
+permalink: /2016/03/03/test-post
+---
+
+
+>>>>>>> origin/gh-pages
 ![Camps Bay sunset]({{site.baseurl}}/assets/img/CNV00005.JPG)
 <span class="dropcap">T</span>his is a test
 

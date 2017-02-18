@@ -1,10 +1,10 @@
 title: Cousins
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://mpcousins.github.io/cousins
-baseurl: "http://mpcousins.github.io/cousins"
+url: http://mpcousins/github.io/
+baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: pretty
 
 markdown: kramdown
 highlighter: rouge
@@ -24,9 +24,16 @@ collections:
     output: true
 
 social:
+<<<<<<< HEAD
    github:
    twitter: onoMattyPeter
    facebook:
    email:
+=======
+   github: mpcousins
+   twitter: onomattypeter
+   facebook: mattcousins
+   email: matt@mattcousins.co.uk
+>>>>>>> origin/gh-pages
 
 google_analytics: "UA--1"
